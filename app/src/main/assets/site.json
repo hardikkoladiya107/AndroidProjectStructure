@@ -1,0 +1,80 @@
+[
+	{
+		"id": 1,
+		"name": "NYP/001",
+		"isEnglish": true,
+		"isSpanish": true
+	},
+	{
+		"id": 2,
+		"name": "Kessler/002",
+		"isEnglish": true,
+		"isSpanish": true
+	},
+	{
+		"id": 3,
+		"name": "NRH/003",
+		"isEnglish": true,
+		"isSpanish": false
+	},
+	{
+		"id": 4,
+		"name": "SRALab/004",
+		"isEnglish": true,
+		"isSpanish": false
+	},
+	{
+		"id": 5,
+		"name": "Brooks/005",
+		"isEnglish": true,
+		"isSpanish": false
+	},
+	{
+		"id": 6,
+		"name": "UCLA/006",
+		"isEnglish": true,
+		"isSpanish": true
+	},
+	{
+		"id": 7,
+		"name": "TIRR/007",
+		"isEnglish": true,
+		"isSpanish": true
+	},
+	{
+		"id": 8,
+		"name": "Miami/008",
+		"isEnglish": true,
+		"isSpanish": true
+	},
+	{
+		"id": 9,
+		"name": "Spaulding/009",
+		"isEnglish": true,
+		"isSpanish": false
+	},
+	{
+		"id": 10,
+		"name": "Atrium/010",
+		"isEnglish": true,
+		"isSpanish": true
+	},
+	{
+		"id": 11,
+		"name": "KUMC/011",
+		"isEnglish": true,
+		"isSpanish": true
+	},
+	{
+		"id": 12,
+		"name": "Baylor/012",
+		"isEnglish": true,
+		"isSpanish": false
+	},
+	{
+		"id": 13,
+		"name": "Moss/013",
+		"isEnglish": true,
+		"isSpanish": false
+	}
+]
